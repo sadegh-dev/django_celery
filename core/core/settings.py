@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'autoadd.apps.AutoaddConfig',
+    'sum.apps.SumConfig',
     # Celery
     'django_celery_beat',
 ]
