@@ -10,4 +10,3 @@ def adding(x, y, id):
     num.save()
     return num.result
 
-

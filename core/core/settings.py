@@ -131,5 +131,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Celery
 
 CELERY_BROKER_URL = 'amqp://guest:guest@localhost'
-CELERY_RESULT_BACKEND = 'rpc://'
+CELERY_RESULT_BACKEND = 'rpc://' 
 
