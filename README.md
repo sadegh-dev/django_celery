@@ -6,6 +6,7 @@
 # install Packages :
 - celery 
 - django-celery-beat
+- flower
 - future
 - wheel
 
